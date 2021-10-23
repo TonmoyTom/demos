@@ -1,4 +1,4 @@
-### Hi there, I'm Kamrul Zaman TOnmoy 👋
+### Hi there, I'm Kamrul Zaman Tonmoy 👋
 
 
 ## I'm a Web Designer , Developer!!
@@ -15,12 +15,6 @@
 [<img align="left" alt="tonmoy | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
-
-
-
-<br />
-<br />
-
 
 [website]: https://kamrulzamantonmoy.xyz
 [youtube]: https://youtube.com/
